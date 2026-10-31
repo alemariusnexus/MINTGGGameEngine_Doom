@@ -1,0 +1,22 @@
+{
+	"keymap" : {
+		"Up" : "up",
+		"W" : "up",
+		"Down" : "down",
+		"S" : "down",
+		"Left" : "left",
+		"A" : "left",
+		"Right" : "right",
+		"D" : "right",
+
+		"Enter" : "enter",
+		"Return" : "enter",
+		"Escape" : "escape",
+		"Control" : "fire",
+		"Space" : "use"
+	},
+	"screen" : {
+		"transformMode" : "fast",
+		"keepAspectRatio" : true
+	}
+}
